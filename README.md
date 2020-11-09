@@ -4,16 +4,22 @@
 ## Kali linux :
 
 $git clone https://github.com/PETERMATNICK7/Peter-Tracker.git
+
 $cd peter-tracker/
+
 $chmod 777 termux_install.sh
+
 $./termux_install.sh
 
 
 ## Termux :
 
 $git clone https://github.com/PETERMATNICK7/Peter-Tracker.git
+
 $cd peter-tracker/
+
 $chmod 777 termux_install.sh
+
 $./termux_install.sh
 
 
